@@ -43,8 +43,12 @@ O notebook `dataset_processing_pipeline.ipynb` é responsável por:
   }
   ```
 
+### v1.1.0 - Implementação do Fine-tuning
+- ✅ **Implementação do notebook de fine-tuning baseado no Gemma 3 (27B)**
+- ✅ Adaptação do notebook original do Unsloth para o dataset customizado
+- ✅ Configuração inicial para treinamento com o dataset IADT-Fase-3-dataset-sample
+
 ### Próximos Passos
-- [ ] Implementação do notebook de fine-tuning baseado no Gemma 3 (27B)
 - [ ] Configuração dos hiperparâmetros de treinamento
 - [ ] Execução do treinamento completo
 - [ ] Avaliação do modelo fine-tuned
