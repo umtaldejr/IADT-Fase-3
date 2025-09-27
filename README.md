@@ -54,6 +54,9 @@ O notebook `dataset_processing_pipeline.ipynb` é responsável por:
 ### v1.3.0 - Ajustes de Configuração
 - ✅ **Refinamento dos parâmetros de treinamento**
 
+### v1.4.0 - Otimização de Épocas
+- ✅ **Aumento do valor de num_train_epochs para melhor convergência do modelo**
+
 ### Próximos Passos
 - [ ] Configuração dos hiperparâmetros de treinamento
 - [ ] Execução do treinamento completo
