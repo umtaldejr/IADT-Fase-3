@@ -48,6 +48,9 @@ O notebook `dataset_processing_pipeline.ipynb` é responsável por:
 - ✅ Adaptação do notebook original do Unsloth para o dataset customizado
 - ✅ Configuração inicial para treinamento com o dataset IADT-Fase-3-dataset-sample
 
+### v1.2.0 - Otimização do Treinamento
+- ✅ **Aumento da quantidade de steps de treinamento**
+
 ### Próximos Passos
 - [ ] Configuração dos hiperparâmetros de treinamento
 - [ ] Execução do treinamento completo
